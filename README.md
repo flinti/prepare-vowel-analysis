@@ -37,5 +37,16 @@ pip install tgt
 ```
 Alternatively, use the preferred way of your python distribution to install packages. 
 
+## Example Output
+output.table
+```
+Sample	Speaker	Gender	Word	Vowel	IPA	F1(Hz)	F2(Hz)	F3(Hz)	Duration
+Steinach_sent1_TS_B01_R01_0003_01	4	f	im	i	i	377.452325	2103.172350	2611.238461	0.040757
+Steinach_sent1_TS_B01_R01_0003_01	4	f	Winda	i	i	370.823883	2102.528683	2725.059468	0.070886
+Steinach_sent1_TS_B01_R01_0003_01	4	f	Winda	a	a	469.024889	1766.488118	2788.784901	0.069653
+Steinach_sent1_TS_B01_R01_0003_01	4	f	fliechn	i	i	327.740167	2298.349294	2976.084345	0.120325
+Steinach_sent1_TS_B01_R01_0003_01	4	f	die	i	i	325.317445	2092.874049	2661.056222	0.070758
+```
+
 ## Authors
 Kathrin Strauch, Christian Strauch
